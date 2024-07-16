@@ -1,26 +1,9 @@
 <h1>FINGER COUNTING CODE</h1>
 <h3>INSTALLATION </h3>
-<style>
-    .container {
-        width: 300px;
-        margin: 20px auto;
-        padding: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        background-color: #f9f9f9;
-    }
-    .copy-button {
-        margin-top: 10px;
-        padding: 5px 10px;
-        background-color: #4CAF50;
-        border: none;
-        color: white;
-        border-radius: 3px;
-        cursor: pointer;
-    }
-</style>
-</head>
-<body>
+
+
+
+
 
 <div class="container">
     <textarea id="copyTextarea" rows="4" readonly>This is the text to copy.</textarea>
